@@ -20,7 +20,7 @@
 - A passionate Self-taught Native Android Developer (Java/Kotlin)
 - AI/ML Enthusiast!
 - Currently learning Backend Development using Flask Framework
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://www.overleaf.com/read/bscjkxvgbmbx))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.overleaf.com/read/bscjkxvgbmbx)
 
 <br><br>
 
