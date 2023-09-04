@@ -85,7 +85,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<p align="center">
+<p>
   <a href="mailto:thekumaryuvraj@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=1x&id=pwQ5RLL0yJgu&format=png" height=50 width=50/>
   </a>
@@ -101,15 +101,4 @@
 
 
 <div align='center'>
-
 ## <b>Thank you. Visit Again...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
