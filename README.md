@@ -23,58 +23,48 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+<p align="center"> 
+   <img src="https://img.icons8.com/color/96/000000/python--v1.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/javascript.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/latex.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/7AFcZ2zirX6Y/dart.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/css3.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/html-5.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
+   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width=55 height=55></img>
+   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
+   <img src="https://www.emailjs.com/logo.png" width=50 height=50></img>
+   <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=60 height=60></img>
+   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=50 height=50></img>
+   <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>
+   <img src="https://user-images.githubusercontent.com/99802392/250141005-357f8634-c058-4237-a923-d15b809622c3.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60></img>
+   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=50 height=50></img>
+   <img src="https://img.icons8.com/color/96/000000/git.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60></img>
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/linux--v1.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/plasticine/100/000000/bash.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/13677/adobe-photoshop.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/13631/adobe-illustrator.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/baWsXpPZGhGu/filmora.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/UohrMT84a2p9/davinci-resolve.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/4Wh92E1ydgPn/microsoft-clipchamp.png" width=60 height=60></img>
+   
 </p>
-
-<br>
-<br>
 
 -----
 
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
 
