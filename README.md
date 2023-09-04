@@ -18,6 +18,7 @@
 - Currently learning Backend Development using Flask Framework
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.overleaf.com/read/bscjkxvgbmbx)
 
+<br>
 
 
 
