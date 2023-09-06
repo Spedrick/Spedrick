@@ -37,12 +37,13 @@
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
-   <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/express.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>  
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60></img>
    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=50 height=50></img>
+   <img src="https://img.icons8.com/color/96/000000/heroku.png" width=50 height=50></img>
    <img src="https://img.icons8.com/color/96/000000/firebase.png" width=50 height=50></img>   
    <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width=50 height=50></img>   
    <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width=50 height=50></img>   
