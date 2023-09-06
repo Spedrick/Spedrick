@@ -26,7 +26,7 @@
 
 <p align="center"> 
    <img src="https://img.icons8.com/color/96/000000/python--v1.png" width=60 height=60></img>
-   <img src="https://img.icons8.com/color/96/000000/javascript.png" width=60 height=60></img>
+   <img src="https://icons8.com/icon/13679/java" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/kotlin.png" width=60 height=60></img>
