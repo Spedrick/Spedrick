@@ -30,7 +30,7 @@
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=60 height=60></img>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width=60 height=60></img>
+   <img src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/css3.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=60 height=60></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=60 height=60></img>
