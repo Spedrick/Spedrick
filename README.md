@@ -30,11 +30,8 @@
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/kotlin.png" width=60 height=60></img>
-   
    <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width=60 height=60></img>
-   
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=60 height=60></img>
-   
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/css3.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/javascript.png" width=60 height=60></img>
