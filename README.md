@@ -37,7 +37,7 @@
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
-   <img src="https://img.icons8.com/color/96/000000/express.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/96/000000/express-js.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>  
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=60 height=60></img>
