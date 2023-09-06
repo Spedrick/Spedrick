@@ -31,6 +31,8 @@
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/kotlin.png" width=60 height=60></img>
    
+   <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width=60 height=60></img>
+   
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=60 height=60></img>
    
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=60 height=60></img>
@@ -38,17 +40,20 @@
    <img src="https://img.icons8.com/color/96/000000/javascript.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
+   <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=60 height=60></img>
+   <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>
    
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
    
-   <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=60 height=60></img>
-   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=50 height=50></img>
-   <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>
-   <img src="https://user-images.githubusercontent.com/99802392/250141005-357f8634-c058-4237-a923-d15b809622c3.png" width=60 height=60></img>
+   
+   
+   
+  
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60></img>
    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=50 height=50></img>
+   
    <img src="https://img.icons8.com/color/96/000000/git.png" width=60 height=60></img>
    <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60></img>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=60 height=60></img>
