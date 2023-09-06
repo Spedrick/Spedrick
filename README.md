@@ -44,6 +44,8 @@
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60></img>
    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width=50 height=50></img>
    <img src="https://img.icons8.com/color/96/000000/firebase.png" width=50 height=50></img>   
+   <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width=50 height=50></img>   
+   <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width=50 height=50></img>   
    <img src="https://img.icons8.com/color/96/000000/git.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/bitbucket.png" width=60 height=60></img>
    <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60></img>
