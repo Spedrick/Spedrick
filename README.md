@@ -16,7 +16,7 @@
 - A passionate Self-taught Native Android Developer (Java/Kotlin)
 - AI/ML Enthusiast!
 - Currently learning Backend Development using Flask Framework
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.overleaf.com/read/bscjkxvgbmbx)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1QPkOhd5ucKfQMdu8OdDeQrdTvpl-eKWH/view)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <p align="center"> 
    <img src="https://img.icons8.com/color/96/000000/python--v1.png" width=60 height=60></img>
-   <img src="https://icons-for-free.com/iconfiles/png/512/java+original+wordmark-1324760550562670345.png" width=60 height=60></img>
+   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/kotlin.png" width=60 height=60></img>
@@ -79,10 +79,10 @@
     <img src="https://img.icons8.com/?size=1x&id=pwQ5RLL0yJgu&format=png" height=50 width=50/>
   </a>
   <a href = "https://www.linkedin.com/in/theyuvrajkumar/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height=50 width=50/>
   </a>
   <a href = "https://www.instagram.com/theyuvrajkumar/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=32323&format=png" height=50 width=50/>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" height=50 width=50/>
   </a>
 </p>
 
